@@ -1,0 +1,10 @@
+Hello
+Tanuja hereHello
+Tanuja hereHello
+ Hello
+ Hello
+ Hello
+
+
+ text processing- word sentence
+ class program along with constructor
